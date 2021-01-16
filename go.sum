@@ -1,3 +1,4 @@
+github.com/IvanVlasic/sqlx v1.2.1-0.20210116215910-62f22b45f17e h1:4qhytKwU/NMAZugbrdnnp1MVgcUStZlZp1IZ7fNk3Zs=
 github.com/IvanVlasic/sqlx v1.2.1-0.20210116215910-62f22b45f17e/go.mod h1:fOdUVA1wp+PY5l/oNCoopzB8+L4WwXTLOd3ufCEMxUE=
 github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
 github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
